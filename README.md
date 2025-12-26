@@ -2,15 +2,15 @@
 
 # 👥 Thành viên nhóm:
 
-1. Nguyễn Thị Lụa
+1. 
 
-   ID:23010369
+   ID:
 
    Chữ ký:
 
-2. Đặng Thị Thu Hoài
+2. 
    
-   ID:23010316
+   ID:
 
    Chữ ký:
 
