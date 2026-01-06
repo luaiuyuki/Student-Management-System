@@ -57,14 +57,14 @@ The project follows MVC (Model–View–Controller) combined with a Layered Arch
 + View Layer: Renders UI using Thymeleaf templates**
 ## Running the Application:
 >                 mvn spring-boot:run
-**Access the application:
+- Access the application:
 
-*Home page: http://localhost:8080/
++ Home page: http://localhost:8080/
 
-*Greeting page: http://localhost:8080/greeting?name=User
++ Greeting page: http://localhost:8080/greeting?name=User
 ## 🎯 Key Features:
 
-**Handle HTTP GET requests using Spring MVC
+Handle HTTP GET requests using Spring MVC
 
 Accept request parameters with @RequestParam
 
