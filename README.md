@@ -15,7 +15,7 @@ Before running this project, ensure that your development environment meets the 
 ## Required Tools Installation:
 🔹 Java Development Kit (JDK)
 
-> Install JDK 17
+>                        Install JDK 17
 
 Verify installation:
                     ``java -version
