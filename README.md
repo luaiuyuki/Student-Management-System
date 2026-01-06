@@ -8,13 +8,13 @@
 
 1. Nguyễn Thị Lụa
 
-   ID:23010369
+   ID:
 
    Github: https://github.com/luaiuyuki
 
 2. Đặng Thị Thu Hoài
    
-   ID:23010316
+   ID:
 
    Github: https://github.com/hoai2310
 
