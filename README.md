@@ -1,4 +1,4 @@
-## System Requirements
+## System Requirements:
 
 Before running this project, ensure that your development environment meets the following requirements:
 
@@ -10,10 +10,13 @@ Before running this project, ensure that your development environment meets the 
 
 + Database: MySQL 8.0+
 
-+ IDE (Recommended):
++ IDE (Recommended): IntelliJ IDEA / Eclipse / VS Code (with Java extensions)
 
-IntelliJ IDEA
+## Required Tools Installation:
+🔹 Java Development Kit (JDK)
 
-Eclipse
+Install JDK 17
 
-VS Code (with Java extensions)
+Verify installation:
+                    java -version
+
