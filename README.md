@@ -18,5 +18,5 @@ Before running this project, ensure that your development environment meets the 
 Install JDK 17
 
 Verify installation:
-                    java -version
+                    ``java -version
 
